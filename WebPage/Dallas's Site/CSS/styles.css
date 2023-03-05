@@ -1,0 +1,120 @@
+.first-container{
+  background-image: url("../image/backgroung.jpeg");
+  height:600px;
+  width: 100%;
+}
+body{
+  margin:0px;
+  text-align:center;
+}
+.Name{
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 150px;
+  color: White;
+  margin: 0px;
+  padding-top: 150px;
+}
+.regular-hr{
+  margin:0px;
+}
+.dothr{
+  border-style:dotted none none;
+  border-width:10px;
+  width: 8%;
+  color:white;
+}
+.school{
+  background-color: transparent;
+  padding-top:30px;
+}
+.education{
+  padding-top: 100px;
+  padding-bottom:50px;
+}
+p{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  line-height: 2;
+
+}
+h2{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 30px;
+  padding-bottom: 30px;
+  margin: 0;
+}
+.Vice-heading{
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+}
+.head-discribe{
+  width:30%;
+  margin:auto;
+  text-align: center;
+}
+.head{
+  width:200px;
+  height:200px;
+}
+.profile{
+padding-top:100px ;
+padding-bottom:50px;
+}
+.middle-container{
+  background-color: #FFDEDE;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 50px auto;
+}
+.skill-icon1{
+  float:left;
+  margin-right:30px;
+  margin-top:40px;
+}
+.skill-icon2{
+  float:right;
+  margin-left:30px;
+}
+.skills{
+  padding-top:100px ;
+  padding-bottom:50px;
+}
+.contact-me{
+  padding-top:100px ;
+  padding-bottom:50px;
+}
+.bottom-container{
+  background-color:#FF8FB1;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 15px;
+  background: #e37fd6;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #edf2f5;
+  text-decoration: none;
+}
+
+.footer-link{
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 22px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
